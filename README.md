@@ -5,6 +5,6 @@ This application uses an express backend and saves and retrieves data from a JSO
 
 ## Preview
 
-[![Note-Taker - Preview](https://res.cloudinary.com/ygiah/image/upload/v1576112211/bootcamp/express_note-taker.png)](https://eduardo-ygiah.github.io/Portfolio/index.html)
+[![Note-Taker - Preview](https://res.cloudinary.com/ygiah/image/upload/v1576112211/bootcamp/express_note-taker.png)](https://note-taker-express.herokuapp.com/)
 
-**[View Live Preview](https://eduardo-ygiah.github.io/Portfolio/index.html)**
+**[View Live Preview](https://note-taker-express.herokuapp.com/)**
